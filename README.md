@@ -1,6 +1,7 @@
 # semantic-segmentation
 
-This repository is an application of ConvNets, and performs semantic segmentation on landscape images.
+This repository is an application of ConvNets, and performs semantic segmentation on landscape images. It is based on my learnings 
+from DeepLearning.AI's convolutional neural networks course. 
 
 The notebook is well documented, and contains explanations for all the code, as well as some illustrations for the
 reader's aid. The notebook uses TensforFlow, and can be made to run in a Colab environment. For simplicity, we will pre-add the
