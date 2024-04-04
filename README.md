@@ -23,4 +23,4 @@ A few important points:
 
 - It only trains for 5 epochs, and produces an accuracy of 0.87. Results can be further improved by increasing epoch count.
 
-All the materials used for this notebook can be found at [this folder](https://drive.google.com/drive/folders/1YIwZBome0l4c8bZuhYZnjg00UHiuZhhE?usp=sharing).
+All the materials (including the entire dataset) used for this notebook can be found at [this folder](https://drive.google.com/drive/folders/1YIwZBome0l4c8bZuhYZnjg00UHiuZhhE?usp=sharing).
